@@ -1,0 +1,6 @@
+Hello world!
+This is a test file.
+Hello again, world!
+Testing multiple occurrences of the word world in one line: world world world.
+This line has no matches.
+HELLO should not match if case-sensitive.
